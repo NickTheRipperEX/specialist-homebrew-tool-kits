@@ -10,11 +10,9 @@
       "discord": "NickTheRipperEX"
     }
   ],
-  "minimumCoreVersion": "0.8.6",
-  "compatibleCoreVersion": "9",
   "compatibility": {
-      "minimum": "0.8.6",
-      "verified": "10"
+      "minimum": "10",
+      "verified": "12"
   },
   "packs": [
     {
