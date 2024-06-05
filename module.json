@@ -1,0 +1,83 @@
+{
+  "id": "specialist-homebrew-tool-kits",
+  "title": "Specialist Homebrew: Tool Kits",
+  "version": "1.0.0",
+  "description": "Everything you need to craft while on-the-go. Proficiency not included.\n\nThis module is a compilation of all my Tool Proficiency supplements for 5th edition Dungeons and Dragons. Each one gives options for characters to explicitly use a different tool kit for mechanical benefits during their adventures. Each supplement also includes a list of add-on/example items to accompany them.",
+  "authors": [
+    {
+      "name": "NickTheRipperEX",
+      "url": "https://github.com/NickTheRipperEX",
+      "discord": "NickTheRipperEX"
+    }
+  ],
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "9",
+  "compatibility": {
+      "minimum": "0.8.6",
+      "verified": "10"
+  },
+  "packs": [
+    {
+        "name": "module-creatures",
+        "label": "Module Creatures",
+        "path": "./packs/creatures.db",
+        "entity": "Actor",
+        "type": "Actor",
+        "system": "dnd5e"
+    },
+    {
+        "name": "module-items",
+        "label": "Module Items",
+        "path": "./packs/items.db",
+        "entity": "Item",
+        "type": "Item",
+        "system": "dnd5e"
+    },
+    {
+        "name": "module-scenes",
+        "label": "Module Scenes",
+        "path": "./packs/scenes.db",
+        "entity": "Scene",
+        "type": "Scene"
+    },
+    {
+        "name": "module-journal-entries",
+        "label": "Module Journal Entries",
+        "path": "./packs/journal-entries.db",
+        "entity": "JournalEntry",
+        "type": "JournalEntry"
+    },
+    {
+        "name": "module-macros",
+        "label": "Module Macros",
+        "path": "./packs/macros.db",
+        "entity": "Macro",
+        "type": "Macro"
+    },
+    {
+        "name": "module-roll-tables",
+        "label": "Module Roll Tables",
+        "path": "./packs/roll-tables.db",
+        "entity": "RollTable",
+        "type": "RollTable"
+    },
+    {
+        "name": "module-playlists",
+        "label": "Module Playlists",
+        "path": "./packs/playlists.db",
+        "entity": "Playlist",
+        "type": "Playlist"
+    },
+    {
+        "name": "module-adventures",
+        "label": "Module Adventures",
+        "path": "./packs/adventures.db",
+        "entity": "Adventure",
+        "type": "Adventure"
+    }
+  ],
+  "system": ["dnd5e"],
+  "manifest": "https://github.com/NickTheRipperEX/Specialist-Homebrew-Tool-Kits/blob/main/module.json",
+  "download": "https://github.com/NickTheRipperEX/Specialist-Homebrew-Tool-Kits/blob/main/specialist-homebrew-tool-kits.zip"
+
+  }
