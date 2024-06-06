@@ -53,8 +53,6 @@
         "type": "RollTable"
     }
   ],
-  "system": ["dnd5e"],
-  "manifest": "https://github.com/NickTheRipperEX/Specialist-Homebrew-Tool-Kits/blob/main/module.json",
-  "download": "https://github.com/NickTheRipperEX/Specialist-Homebrew-Tool-Kits/blob/main/specialist-homebrew-tool-kits.zip"
-
-  }
+  "manifest": "https://github.com/NickTheRipperEX/specialist-homebrew-tool-kits/blob/main/module.json",
+  "download": "https://github.com/NickTheRipperEX/specialist-homebrew-tool-kits/blob/main/specialist-homebrew-tool-kits.zip"
+}
