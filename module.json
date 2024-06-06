@@ -7,50 +7,56 @@
     {
       "name": "NickTheRipperEX",
       "url": "https://github.com/NickTheRipperEX",
-      "discord": "NickTheRipperEX"
+      "discord": "NickTheRipperEX",
+      "flags": {}
     }
   ],
   "compatibility": {
-      "minimum": "10",
-      "verified": "12"
+    "minimum": "10",
+    "verified": "12"
   },
   "packs": [
     {
-        "name": "specialist-homebrew-creatures",
-        "label": "Creatures (Specialist Homebrew)",
-        "path": "./packs/creatures.db",
-        "entity": "Actor",
-        "type": "Actor",
-        "system": "dnd5e"
+      "name": "specialist-homebrew-creatures",
+      "label": "Creatures (Specialist Homebrew)",
+      "path": "packs/creatures.db",
+      "type": "Actor",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
     },
     {
-        "name": "specialist-homebrew-items",
-        "label": "Items (Specialist Homebrew)",
-        "path": "./packs/items.db",
-        "entity": "Item",
-        "type": "Item",
-        "system": "dnd5e"
+      "name": "specialist-homebrew-items",
+      "label": "Items (Specialist Homebrew)",
+      "path": "packs/items.db",
+      "type": "Item",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
     },
     {
-        "name": "specialist-homebrew-journal-entries",
-        "label": "Journal Entries (Specialist Homebrew)",
-        "path": "./packs/journal-entries.db",
-        "entity": "JournalEntry",
-        "type": "JournalEntry"
+      "name": "specialist-homebrew-journal-entries",
+      "label": "Journal Entries (Specialist Homebrew)",
+      "path": "packs/journal-entries.db",
+      "type": "JournalEntry",
+      "private": false,
+      "flags": {}
     },
     {
-        "name": "specialist-homebrew-macros",
-        "label": "Macros (Specialist Homebrew)",
-        "path": "./packs/macros.db",
-        "entity": "Macro",
-        "type": "Macro"
+      "name": "specialist-homebrew-macros",
+      "label": "Macros (Specialist Homebrew)",
+      "path": "packs/macros.db",
+      "type": "Macro",
+      "private": false,
+      "flags": {}
     },
     {
-        "name": "specialist-homebrew-roll-tables",
-        "label": "Roll Tables (Specialist Homebrew)",
-        "path": "./packs/roll-tables.db",
-        "entity": "RollTable",
-        "type": "RollTable"
+      "name": "specialist-homebrew-roll-tables",
+      "label": "Roll Tables (Specialist Homebrew)",
+      "path": "packs/roll-tables.db",
+      "type": "RollTable",
+      "private": false,
+      "flags": {}
     }
   ],
   "manifest": "https://github.com/NickTheRipperEX/specialist-homebrew-tool-kits/releases/latest/download/module.json",
