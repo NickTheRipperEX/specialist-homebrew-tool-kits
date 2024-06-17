@@ -31,14 +31,14 @@ The following tool kits are included with the latest release:
 
 ### Currently Implementing
 
-The following tool kits are included in the repository, but undergoing active implementation in Foundry VTT:
+The following tool kits are undergoing active implementation in Foundry VTT and included in the repository, but not in the latest release:
 
 - **Poisoner's Kit**
 
 
 ### Under Development
 
-The following tool kits are not included in the repository, but undergoing active development or playtesting within my own games:
+The following tool kits are not included in the repository or latest release, but undergoing active development or playtesting within my own games:
 
 - **Leatherworker's Tools:**
 - **Smith's Tools**
