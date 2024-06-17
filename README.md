@@ -6,6 +6,8 @@ Everything you need to craft while on-the-go. Proficiency not included.
 
 This compendium module is a compilation of all my Tool Proficiency supplements for 5th edition Dungeons & Dragons. Each one gives options for characters to explicitly use a different tool kit for mechanical benefits during their adventures. Each supplement also includes a list of add-on/example items to accompany them.
 
+To see the latest changes in-detail, view the [changelog](CHANGELOG.md)
+
 ## Installation
 
 **Minimum Foundry Version:** 10
