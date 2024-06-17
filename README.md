@@ -8,6 +8,10 @@ This compendium module is a compilation of all my Tool Proficiency supplements f
 
 ## Installation
 
+**Minimum Foundry Version:** 10
+
+**Verified Foundry Version:** 10.312
+
 To install, use the following manifest URL to pull from the latest release: `https://github.com/NickTheRipperEX/specialist-homebrew-tool-kits/releases/latest/download/module.json`
 
 ## Contents
