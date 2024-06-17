@@ -69,7 +69,7 @@ The following tools have not yet been considered for implementation, but I may g
 - **Forgery Kit**
 
 
-### Will Not implement
+### Will Not Implement
 
 The following proficiencies I have considered and have no intention of attempting creation of a supplement for them until further notice:
 
