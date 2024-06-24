@@ -34,22 +34,23 @@ However, as of the current version not all tool kits are implemented within the 
 The following tool kits are included with the latest release:
 
 - **Cook's Utensils**
+- **Poisoner's Kit**
 
 ### Currently Implementing
 
 The following tool kits are undergoing active implementation in Foundry VTT and included in the repository, but not in the latest release:
 
-- **Poisoner's Kit**
+- **Leatherworker's Tools:**
+- **Smith's Tools**
+- **Weaver's Tools**
+- **Woodcarver's Tools**
 
 
 ### Under Development
 
 The following tool kits are not included in the repository or latest release, but undergoing active development or playtesting within my own games:
 
-- **Leatherworker's Tools:**
-- **Smith's Tools**
-- **Weaver's Tools**
-- **Woodcarver's Tools**
+- None
 
 ### Not Implemented
 
