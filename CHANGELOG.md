@@ -9,7 +9,7 @@ Added poisoner's kit supplement.
   * 6 different catalysts to serve as the bases for 3 types of poisons
     * Can create ingested, inhaled or injury poisons, following slightly modified rules from the Dungeon Master's Guide
   * Ingredients that can be used to add other effects to the poisons, from damage to debuffs
-  * Rollable tables to use when foraging for random poison ingredients
+* Rollable tables to use when foraging for random poison ingredients
 
 ## TO-DO
 
