@@ -89,3 +89,7 @@ The following proficiencies I have considered and have no intention of attemptin
 - **Potter's Tools:** Creating art pieces to, at-most, sell for gold. The point of the game is to adventure and fight monsters or villains.
 - **Thieves' Tools:** They realistically only have use in picking locks and disabling traps, and that is just a very straightforward ability check against a given DC.
 - **Vehicles:** Will require their own supplemental implementation of many elements, far beyond the scope of just this module.
+
+## Credits
+
+Special credit to [this short-but-sweet supplement for the Poisoner's Kit](https://www.dmsguild.com/product/188571/Poisoners-Kit-Guide) provided by Morgan Boetsma on Dungeon Master's Guild. They were the inspiration behind my original Poisoner's Kit homebrew supplement, which heavily modified and expanded upon their original ruleset. Without this work, my poison crafting rules would not exist, nor would any of the tool kit supplements which branched out of it.
