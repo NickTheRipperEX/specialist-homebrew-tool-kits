@@ -12,9 +12,13 @@ To see the latest changes in-detail, view the [changelog](CHANGELOG.md)
 
 **Minimum Foundry Version:** 10
 
-**Verified Foundry Version:** 10.312
+**Verified Foundry Version:** 12
 
 To install, use the following manifest URL to pull from the latest release: `https://github.com/NickTheRipperEX/specialist-homebrew-tool-kits/releases/latest/download/module.json`
+
+## License
+
+This project is licensed under *Creative Commons Zero v1.0 Universal* (CC0-1.0). [Read the complete licensing information here.](LICENSE.md)
 
 ## Contents
 
