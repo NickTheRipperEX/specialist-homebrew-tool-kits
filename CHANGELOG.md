@@ -13,9 +13,11 @@ Added poisoner's kit supplement.
 
 ## TO-DO
 
-* Create macros to automatically handle creating poisons and/or meals
+* Implement Masterwork Equipment supplement (smith's tools, woodworker's tools, etc)
+  * Program in templates for different types of materials
 * Add rollable tables for Cook's Untensils for determining randomly found loot/shops
   * May make separate tables for different dish types
+* Create macros to automatically handle creating poisons and/or meals (low priority)
 
 ---
 # Version 1.0
